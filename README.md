@@ -2,6 +2,8 @@
 
 A code that allows you to get the Playing, Listening, and Streaming Discord Statuses 24/7!
 
+**Listening.JS file now allows you to change song URL in the discord profile menu** - Credits to Bricked Computer Man aka TechnoLustMatty who is an Admin for Phantom's Paradise (https://discord.gg/sealedsaucer)
+
 #### Please check out this if you want to add multiple tokens with just one file: [phantom.sellix.io/product/6388ec8e3c7ed](https://phantom.sellix.io/product/6388ec8e3c7ed)
 
 ---
